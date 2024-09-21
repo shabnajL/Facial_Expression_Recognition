@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5b4d9f9d-d5db-4752-98d7-6e146a3131ae)# Facial_Expression_Recognition
+# Facial_Expression_Recognition
 # Dataset available at kaggle
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 #-------------------------------------------------------------------------------
