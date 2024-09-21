@@ -59,6 +59,8 @@ EPOCH[TRAIN]14/15: 100%|██████████| 901/901 [13:14<00:00,  1
 EPOCH[VALID]14/15: 100%|██████████| 221/221 [00:42<00:00,  5.20it/s, loss=1.074095, accuracy=0.656859]
 EPOCH[TRAIN]15/15: 100%|██████████| 901/901 [13:11<00:00,  1.14it/s, loss=0.527560, accuracy=0.804503]
 EPOCH[VALID]15/15: 100%|██████████| 221/221 [00:41<00:00,  5.28it/s, loss=1.120600, accuracy=0.641522]
+![image](https://github.com/user-attachments/assets/681d9b0c-f080-40d6-95ca-91ec02e95f2b)
+
 
 
 
