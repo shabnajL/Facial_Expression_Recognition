@@ -1,7 +1,7 @@
 # Facial_Expression_Recognition
 # Dataset available at kaggle
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
 
 Steps included:
 1. Importing necessary package
@@ -11,7 +11,7 @@ Steps included:
 5. Creating the Model
 6. Design the Train and Eval Process
 7. Creating a Training Loop
-# -----------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 
 Total no. of examples in trainset : 28821
 Total no. of examples in validset : 7066
@@ -24,7 +24,7 @@ Total no. of examples in validset : 7066
 Total no. of batches in trainloader : 901
 Total no. of batches in validloader : 221
 
-# -------------------------------------------------------------------------------
+# ------------------------------------------------------------------------
 EPOCH[TRAIN]1/15: 100%|██████████| 901/901 [13:11<00:00,  1.14it/s, loss=0.826885, accuracy=0.694552]
 EPOCH[VALID]1/15: 100%|██████████| 221/221 [00:42<00:00,  5.23it/s, loss=1.013705, accuracy=0.638520]
 BEST WEIGHTS SAVED.
@@ -60,7 +60,7 @@ EPOCH[VALID]14/15: 100%|██████████| 221/221 [00:42<00:00,  5
 EPOCH[TRAIN]15/15: 100%|██████████| 901/901 [13:11<00:00,  1.14it/s, loss=0.527560, accuracy=0.804503]
 EPOCH[VALID]15/15: 100%|██████████| 221/221 [00:41<00:00,  5.28it/s, loss=1.120600, accuracy=0.641522]
 ![image](https://github.com/user-attachments/assets/18c6c085-d6aa-44e7-87b0-3d0febe8bb40)
-# -------------------------------------------------------------------------------
+# ------------------------------------------------------------------------
 
 #  OUTPUT
 
