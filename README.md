@@ -1,7 +1,7 @@
 # Facial_Expression_Recognition
 # Dataset available at kaggle
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
-# -------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 
 Steps included:
 1. Importing necessary package
@@ -11,7 +11,7 @@ Steps included:
 5. Creating the Model
 6. Design the Train and Eval Process
 7. Creating a Training Loop
-# -------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 
 Total no. of examples in trainset : 28821
 Total no. of examples in validset : 7066
